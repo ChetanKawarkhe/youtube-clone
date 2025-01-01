@@ -18,3 +18,5 @@ https://youtu.be/Ryh6BYeMIDQ?si=NXTKwQNdSk-o9bGQ&t=6086
 - to show number of views
 ## useParams()
 ## import {fetchData} from '../utils/rapidapi'
+
+
